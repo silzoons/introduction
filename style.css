@@ -72,7 +72,7 @@ a:hover {
 }
 
 .caption{
-  font-style: oblique;
+  font-style: italic;
   display: flex;
   justify-content: center;
 }
