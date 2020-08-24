@@ -3,12 +3,10 @@
   box-sizing: border-box;
 }
 
-
 body {
   color: #414141;    /* Dark gray */
   background-color: #EEEEEE;    /* Light gray */
   font-size: 18px;
-
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -23,7 +21,6 @@ h1 {
   margin: auto;
   padding-bottom: 30px;
   text-align: center;
-
   width: 50%;
 }
 
@@ -33,16 +30,12 @@ h2 {
     color: #5995DA;
 }
 
-
-
 p {
   display: flex;
   width: 50%;
   padding-bottom: 20px;
   font-family: "georgia", "Arial", sans-serif;
   justify-content: center;
-
-
 }
 
 .menu-container {
@@ -66,15 +59,20 @@ a:hover {
 .menu {
   width: 50%;
   display: flex;
-
 }
 
 .achtergrond{
-  width: 1100px;
+  width: 800px;
 }
 
 .foto {
     display: flex;
     justify-content: center;
     align-items: center
+}
+
+.caption{
+  font-style: oblique;
+  display: flex;
+  justify-content: center;
 }
