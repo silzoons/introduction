@@ -2,20 +2,17 @@
   margin:auto;
   box-sizing: border-box;
 }
-
 body {
-  color: #414141;    /* Dark gray */
-  background-color: #EEEEEE;    /* Light gray */
+  color: #414141;
+  background-color: #EEEEEE;
   font-size: 18px;
 }
-
 h1, h2, h3, h4, h5, h6 {
   font-family: "georgia", "Arial", sans-serif;
   font-weight: normal;
   margin:auto;
   justify-content: center;
 }
-
 h1 {
   font-size: 2em;
   margin: auto;
@@ -23,13 +20,11 @@ h1 {
   text-align: center;
   width: 50%;
 }
-
 h2 {
   font-size: 1.6em;
     text-align: center;
     color: #5995DA;
 }
-
 p {
   display: flex;
   width: 50%;
@@ -37,7 +32,6 @@ p {
   font-family: "georgia", "Arial", sans-serif;
   justify-content: center;
 }
-
 .menu-container {
   color: #fff;
   background-color: #B2D6FF;
@@ -45,29 +39,21 @@ p {
   display: flex;
   justify-content: center;
 }
-
 a:link {
   text-decoration: none;
 }
-
 a:hover {
   text-decoration: underline;
   font-style: italic;
 }
-
-
 .menu {
   width: 50%;
   display: flex;
 }
-
-
 .foto {
     display: flex;
     justify-content: center;
-
 }
-
 .caption {
   font-style: italic;
   display: flex;
